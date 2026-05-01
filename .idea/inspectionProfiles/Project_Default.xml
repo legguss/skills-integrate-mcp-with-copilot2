@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSMethodCanBeStatic" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="cairocffi" />
+            <item index="1" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="2" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="3" class="java.lang.String" itemvalue="maxminddb" />
+            <item index="4" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="5" class="java.lang.String" itemvalue="cryptography" />
+            <item index="6" class="java.lang.String" itemvalue="CairoSVG" />
+            <item index="7" class="java.lang.String" itemvalue="pycrypto" />
+            <item index="8" class="java.lang.String" itemvalue="clevercsv" />
+            <item index="9" class="java.lang.String" itemvalue="lxml" />
+            <item index="10" class="java.lang.String" itemvalue="SQLAlchemy-Utils" />
+            <item index="11" class="java.lang.String" itemvalue="gpg" />
+            <item index="12" class="java.lang.String" itemvalue="Pillow" />
+            <item index="13" class="java.lang.String" itemvalue="WeasyPrint" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
